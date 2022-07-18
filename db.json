@@ -1,0 +1,25 @@
+{
+"products" : 
+[
+{"id":1,"nama":"Honey badger","category":"Indigo"},
+{"id":2,"nama":"Burmese black mountain tortoise","category":"Blue"},
+{"id":3,"nama":"Bush dog","category":"Pink"},
+{"id":4,"nama":"Macaque, pig-tailed","category":"Red"},
+{"id":5,"nama":"Flicker, field","category":"Crimson"},
+{"id":6,"nama":"Monkey, vervet","category":"Blue"},
+{"id":7,"nama":"Eagle, pallas's fish","category":"Yellow"},
+{"id":8,"nama":"Blue duck","category":"Goldenrod"},
+{"id":9,"nama":"Goanna lizard","category":"Mauv"},
+{"id":10,"nama":"Red-billed tropic bird","category":"Violet"},
+{"id":11,"nama":"African wild cat","category":"Teal"},
+{"id":12,"nama":"Dama wallaby","category":"Fuscia"},
+{"id":13,"nama":"Llama","category":"Fuscia"},
+{"id":14,"nama":"Toucan, white-throated","category":"Aquamarine"},
+{"id":15,"nama":"White-mantled colobus","category":"Pink"},
+{"id":16,"nama":"Paradoxure","category":"Teal"},
+{"id":17,"nama":"Glossy ibis","category":"Turquoise"},
+{"id":18,"nama":"Coyote","category":"Purple"},
+{"id":19,"nama":"Armadillo, seven-banded","category":"Crimson"},
+{"id":20,"nama":"Cat, miner's","category":"Indigo"}
+]
+}
